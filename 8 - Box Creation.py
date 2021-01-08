@@ -36,5 +36,5 @@ while True:
             pp.append(pp[0]-1)
         else:
             break
-
+    time.sleep(1)
     clear_screen()
